@@ -1,5 +1,6 @@
 ---
 title: Mpt Diffusion Modes
+description: Streamlit app, hosted with Huggingface Spaces to make diffusion modes predictions using a CNN
 emoji: 🦀
 colorFrom: blue
 colorTo: blue
